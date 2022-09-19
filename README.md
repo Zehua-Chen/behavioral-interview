@@ -3,6 +3,7 @@
   - [Tell Me About Yourself](#tell-me-about-yourself)
   - [Weakness](#weakness)
   - [How Do You Hear About Our Company?](#how-do-you-hear-about-our-company)
+  - [Working Culture](#working-culture)
 - [Projects](#projects)
   - [Learn Otamatone](#learn-otamatone)
   - [Fridge Catalog](#fridge-catalog)
@@ -39,6 +40,12 @@ Sometimes I would also assign delayed tasks to myself.
 
 [`questions/why-apply/`](questions/why-apply/README.md)
 
+## Working Culture
+
+- Both hybrid or in person
+- Clear vision
+-
+
 # Projects
 
 ## Learn Otamatone
@@ -46,14 +53,16 @@ Sometimes I would also assign delayed tasks to myself.
 - Challenges
   - UI Design
   - Collaboration: skills
+  - Teammate does not know frontend/backend development (Gitpod)
 - Mistakes
   - Lack of forward thinking on the backend
 - Enjoyed
   - Design
+  - Learning how to use Gitpod
 - Leadership
   - Coordinate tasks
 - Conflicts
-  - Coordination
+  - Lack of response from teammates
 - Different:
   - Consider task dependencies
 
