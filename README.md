@@ -4,6 +4,8 @@
   - [Weakness](#weakness)
   - [How Do You Hear About Our Company?](#how-do-you-hear-about-our-company)
   - [Working Culture](#working-culture)
+  - [Not on Resume](#not-on-resume)
+  - [Engineering Principles](#engineering-principles)
 - [Projects](#projects)
   - [Learn Otamatone](#learn-otamatone)
   - [Fridge Catalog](#fridge-catalog)
@@ -43,8 +45,23 @@ Sometimes I would also assign delayed tasks to myself.
 ## Working Culture
 
 - Both hybrid or in person
-- Clear vision
--
+- Clear vision: no vision no product
+- Work life balance: OK with **occasional** overtime.
+- Room for growth; if not good as a springboard for bigger companies
+
+## Not on Resume
+
+- Game dev, lead
+
+## Engineering Principles
+
+- Works:
+  - Understand the problem
+  - Some that works but not pretty is better than nothing at all
+- Looks and Experience
+  - Standout among competitors
+- Devops, code quality
+  - Long term plan
 
 # Projects
 

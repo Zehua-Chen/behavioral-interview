@@ -8,10 +8,15 @@
 
 # IXL Learning
 
-- Horrible previous learning experience
-  - Long feedback cycle: school in China
-  - Horrible experience: linear algebra software
-  - Little feedback: UIUC internal system, Coursework
-- Columbia, UI design class:
-  - What well designed experience is like
-  - How much a well designed experience can do
+Something I wish I had
+
+- Fast feedback cycle
+  - China: 1-2 days for homeworks to be corrected; new homeworks by then; no
+    learning
+  - USA: weeks of lecture before homework; forget everything by then
+  - IXL offers ways for students to check progress; don't have to be Excel
+    expert
+- Tight integration
+  - Khan academy: not integrated, more time
+- Available to parents whose school do not use the system
+  - No after school classes: expensive and exhausting
